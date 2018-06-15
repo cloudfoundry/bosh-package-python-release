@@ -15,7 +15,7 @@ To use `python-*` package for compilation in your packaging script:
 ```bash
 #!/bin/bash -eu
 source /var/vcap/packages/python-2.7/bosh/compile.env
-bosh_pip install ...
+bosh_pip <python-module to install> ...
 ```
 
 To use `python-*` package at runtime in your job scripts:
