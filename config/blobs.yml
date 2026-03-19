@@ -18,10 +18,10 @@ python-3.11/setuptools-67.7.2.tar.gz:
   size: 2491608
   object_id: 7ceac4d4-ea3b-4f5b-54a5-978ba76a8e5e
   sha: sha256:f104fa03692a2602fa0fec6c6a9e63b6c8a968de13e17c026957dd1f53d80990
-python-3.12/Python-3.12.12.tgz:
-  size: 27255645
-  object_id: bc560079-33c3-4c4f-7762-812aa2ad9467
-  sha: sha256:487c908ddf4097a1b9ba859f25fe46d22ccaabfb335880faac305ac62bffb79b
+python-3.12/Python-3.12.13.tgz:
+  size: 27262093
+  object_id: 3ad53c07-19c1-41fd-6275-6f35b37ce071
+  sha: sha256:0816c4761c97ecdb3f50a3924de0a93fd78cb63ee8e6c04201ddfaedca500b0b
 python-3.12/setuptools-67.7.2.tar.gz:
   size: 2491608
   object_id: 7ceac4d4-ea3b-4f5b-54a5-978ba76a8e5e
